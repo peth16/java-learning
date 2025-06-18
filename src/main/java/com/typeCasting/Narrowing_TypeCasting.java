@@ -1,4 +1,4 @@
-package com.basic;
+package com.typeCasting;
 
 /*
 Narrowing Casting (manually) - converting a larger type to a smaller size type

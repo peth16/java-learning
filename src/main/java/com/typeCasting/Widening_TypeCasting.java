@@ -1,4 +1,4 @@
-package com.basic;
+package com.typeCasting;
 
 /*
 Widening Casting (automatically) - converting a smaller type to a larger type size
